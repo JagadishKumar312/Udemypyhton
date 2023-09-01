@@ -1,0 +1,4 @@
+automationmanual
+selenium
+python
+java
